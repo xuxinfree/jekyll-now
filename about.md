@@ -3,13 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+# 关于
 
-Some information about you!
-
-### More Information
+### GitHub
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+QQ:133263778
+---
+微信：15563263778
+---
+电话：15563263778/18764005777
